@@ -1,0 +1,9 @@
+.Colorboxes{
+    display:flex;
+    flex-wrap: wrap;
+}
+.Box{
+    width: 150px;
+    height: 150px;
+    margin : 5px;
+}
